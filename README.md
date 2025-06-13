@@ -1,4 +1,4 @@
-# PRODIGY_CS_03
+# Password Complexity Checker
 Password Strength Checker
 This is a Python command-line tool that checks the strength of a password based on commonly recommended security criteria. It provides a score, a strength rating, and helpful suggestions for improvement.
 
